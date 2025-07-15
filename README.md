@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1> HEYY </h1>
 
-<!--
-**herickcarvalho/herickcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<P> 👨‍💻 Fala aí! Eu sou o Herick Carvalho, tenho 21 anos e tô na jornada dev 🚀 <br>
+📚 Atualmente mergulhado em HTML, CSS, JavaScript e React <br>
+🌱 Em breve: estudando Full Stack pra dominar tudo de front a back 🔥 <br>
+🎯 Curioso por tech, movido a café e código <br>
+💡 Aqui no GitHub você vai acompanhar minha evolução — bora crescer junto? </P>
+<br>
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herickcarvalho)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
